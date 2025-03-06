@@ -1,4 +1,4 @@
-# a322_electricity_trends.py
+ # a322_electricity_trends.py
 # This program uses the pandas module to load a 3-dimensional data sheet into a pandas DataFrame object
 # Then it will use the matplotlib module to plot comparative line graphs 
 
